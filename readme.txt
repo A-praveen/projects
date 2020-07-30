@@ -1,0 +1,1 @@
+This is a simple weather web project using a API which was done using django(python framework).This gives the information about a current temperature,description about the city.
